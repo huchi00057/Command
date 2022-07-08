@@ -12,7 +12,7 @@ Create a new visually environment of Python
  ====
     python 
     import torch
-    print(torch.version)
+    torch.__version__
 
  If u finished, you can enter **ctrl+z or exit**
  >out：1.11.0+cpu
