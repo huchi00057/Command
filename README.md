@@ -3,7 +3,7 @@ Daily command I use in Anaconda Prompt usually.
 Create a new visually environment of Python
 ====
     conda env list
-    conda create —name **name python=**version(like 3.8)
+    conda create --name **name python=**version(like 3.8)
     conda activate **name
     
  If u wanna leave this environment and back to base, you can enter **deactivate**
